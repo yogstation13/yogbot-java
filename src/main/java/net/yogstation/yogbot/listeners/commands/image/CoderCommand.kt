@@ -73,6 +73,7 @@ class CoderCommand(discordConfig: DiscordConfig, random: Random) : ImageCommand(
 		"https://cdn.discordapp.com/attachments/408008557993132035/1161765671085023403/image.png", // I'm normal I swear
 		"https://cdn.discordapp.com/attachments/892167119154872391/1161764164788830328/and_if_we_help.png", // Helping out
 		"https://cdn.discordapp.com/attachments/1094309532341117061/1179647880970129408/i_am_a_coder.png", // I AM A CODER
+		"https://i.imgur.com/S7zzdRN.png", // Man vs Machine
 	)
 
 	override val title = "Coder Image"
